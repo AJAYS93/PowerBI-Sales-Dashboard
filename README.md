@@ -29,7 +29,7 @@ This Power BI dashboard analyzes global sales performance across markets, catego
 
 ## Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png.png)
 
 ## Files Included
 
